@@ -52,9 +52,9 @@ M.setup = function()
 		-- ColorColumn = { bg = colors.selection },
 		--
 		StatusLine = { fg = colors.off_white, bg = colors.blue_black },
-		-- StatusLineNC = { fg = colors.comment },
-		-- StatusLineTerm = { fg = colors.white, bg = colors.black },
-		-- StatusLineTermNC = { fg = colors.comment },
+		StatusLineNC = { bg = colors.blue_black },
+		StatusLineTerm = { bg = colors.blue_black },
+		StatusLineTermNC = { bg = colors.blue_black },
 		--
 		-- Directory = { fg = colors.cyan },
 		DiffAdd = { bg = colors.created_bg },

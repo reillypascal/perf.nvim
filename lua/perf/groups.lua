@@ -291,7 +291,7 @@ M.setup = function()
 		LspDiagnosticsDefaultError = { fg = colors.salmon_pink },
 		LspDiagnosticsDefaultWarning = { fg = colors.dusky_yellow },
 		LspDiagnosticsDefaultInformation = { fg = colors.robin_blue },
-		LspDiagnosticsDefaultHint = { fg = colors.robin_blue },
+		LspDiagnosticsDefaultHint = { fg = colors.cyan_2 },
 		-- LspDiagnosticsUnderlineError = { fg = colors.red, undercurl = true },
 		-- LspDiagnosticsUnderlineWarning = { fg = colors.yellow, undercurl = true },
 		-- LspDiagnosticsUnderlineInformation = { fg = colors.cyan, undercurl = true },

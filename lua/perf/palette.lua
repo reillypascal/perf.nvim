@@ -27,9 +27,10 @@ return {
 	created_bg = "#222e1d",
 	pale_mint = "#b2e9cf",
 	pale_blue = "#a3dce9",
+	cyan_2 = "#5dfbf8", -- for lsp info
 	light_blue = "#8be9fd",
 	cyan = "#a2edfd",
-	robin_blue = "#93d8fd",
+	robin_blue = "#93d8fd", -- for lsp hint
 	pale_lavender = "#bd93f9",
 	dusky_lavender = "#9e6ec8",
 	off_white = "#dbdbdb",

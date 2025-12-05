@@ -288,9 +288,9 @@ M.setup = function()
 		-- DiagnosticVirtualTextInfo = { fg = colors.cyan },
 		-- DiagnosticVirtualTextHint = { fg = colors.cyan },
 		--
-		LspDiagnosticsDefaultError = { fg = colors.bright_orange },
-		LspDiagnosticsDefaultWarning = { fg = colors.orange_yellow },
-		LspDiagnosticsDefaultInformation = { fg = colors.cyan },
+		LspDiagnosticsDefaultError = { fg = colors.salmon_pink },
+		LspDiagnosticsDefaultWarning = { fg = colors.dusky_yellow },
+		LspDiagnosticsDefaultInformation = { fg = colors.pale_mint },
 		LspDiagnosticsDefaultHint = { fg = colors.cyan },
 		-- LspDiagnosticsUnderlineError = { fg = colors.red, undercurl = true },
 		-- LspDiagnosticsUnderlineWarning = { fg = colors.yellow, undercurl = true },

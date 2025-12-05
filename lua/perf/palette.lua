@@ -8,6 +8,7 @@ return {
 	comment_gray = "#646568",
 	string_taupe = "#c8a791",
 	deleted_bg = "#301b1b",
+	salmon_pink = "#ffbdb7", -- for lsp error
 	dusky_pink = "#b66d92",
 	med_pink = "#c56099",
 	bright_pink = "#ff70b5",
@@ -17,6 +18,7 @@ return {
 	dusky_orange = "#ffb86c",
 	pale_orange = "#e2c6ac",
 	orange_yellow = "#f8c46d",
+	dusky_yellow = "#ffdf88", -- for lsp warning
 	white_yellow = "#fafae8",
 	yellow_white = "#f7f7f2",
 	lemon_yellow = "#f1fa8c",

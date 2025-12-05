@@ -29,6 +29,7 @@ return {
 	pale_blue = "#a3dce9",
 	light_blue = "#8be9fd",
 	cyan = "#a2edfd",
+	robin_blue = "#93d8fd",
 	pale_lavender = "#bd93f9",
 	dusky_lavender = "#9e6ec8",
 	off_white = "#dbdbdb",

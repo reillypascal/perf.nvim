@@ -26,7 +26,7 @@ return {
 	pale_mint = "#b2e9cf",
 	pale_blue = "#a3dce9",
 	light_blue = "#8be9fd",
-	modified_fg = "#a2edfd",
+	cyan = "#a2edfd",
 	pale_lavender = "#bd93f9",
 	dusky_lavender = "#9e6ec8",
 	off_white = "#dbdbdb",

@@ -58,7 +58,7 @@ M.setup = function()
 		--
 		-- Directory = { fg = colors.cyan },
 		DiffAdd = { bg = colors.created_bg },
-		DiffChange = { fg = colors.modified_fg },
+		DiffChange = { fg = colors.cyan },
 		DiffDelete = { bg = colors.deleted_bg },
 		-- DiffText = { fg = colors.comment },
 		--
@@ -288,10 +288,10 @@ M.setup = function()
 		-- DiagnosticVirtualTextInfo = { fg = colors.cyan },
 		-- DiagnosticVirtualTextHint = { fg = colors.cyan },
 		--
-		-- LspDiagnosticsDefaultError = { fg = colors.red },
-		-- LspDiagnosticsDefaultWarning = { fg = colors.yellow },
-		-- LspDiagnosticsDefaultInformation = { fg = colors.cyan },
-		-- LspDiagnosticsDefaultHint = { fg = colors.cyan },
+		LspDiagnosticsDefaultError = { fg = colors.bright_orange },
+		LspDiagnosticsDefaultWarning = { fg = colors.orange_yellow },
+		LspDiagnosticsDefaultInformation = { fg = colors.cyan },
+		LspDiagnosticsDefaultHint = { fg = colors.cyan },
 		-- LspDiagnosticsUnderlineError = { fg = colors.red, undercurl = true },
 		-- LspDiagnosticsUnderlineWarning = { fg = colors.yellow, undercurl = true },
 		-- LspDiagnosticsUnderlineInformation = { fg = colors.cyan, undercurl = true },

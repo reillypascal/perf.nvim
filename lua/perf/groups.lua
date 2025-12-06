@@ -250,6 +250,9 @@ M.setup = function()
 		-- GitSignsDeleteLn = { fg = colors.black, bg = colors.bright_red },
 		-- GitSignsCurrentLineBlame = { fg = colors.white },
 		--
+		-- Git User-defined
+		GitBranch = { fg = colors.light_gray },
+		--
 		-- -- NvimTree
 		-- NvimTreeNormal = { fg = colors.fg, bg = colors.menu },
 		-- NvimTreeVertSplit = { fg = colors.bg, bg = colors.bg },

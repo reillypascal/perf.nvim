@@ -251,7 +251,7 @@ M.setup = function()
 		-- GitSignsCurrentLineBlame = { fg = colors.white },
 		--
 		-- Git User-defined
-		GitBranch = { fg = colors.light_gray },
+		GitBranch = { fg = colors.pale_lavender },
 		--
 		-- -- NvimTree
 		-- NvimTreeNormal = { fg = colors.fg, bg = colors.menu },

@@ -207,7 +207,7 @@ M.setup = function()
 		-- htmlTitle = { fg = colors.white },
 		--
 		-- -- Markdown
-		-- markdownBlockquote = { fg = colors.yellow, italic = true },
+		markdownBlockquote = { fg = colors.light_gray, italic = true },
 		-- markdownBold = { fg = colors.orange, bold = true },
 		-- markdownCode = { fg = colors.orange },
 		-- markdownCodeBlock = { fg = colors.orange },
@@ -224,8 +224,8 @@ M.setup = function()
 		-- markdownIdDeclaration = { fg = colors.cyan },
 		-- markdownIdDelimiter = { fg = colors.magenta },
 		-- markdownItalic = { fg = colors.yellow, italic = true },
-		-- markdownLinkDelimiter = { fg = colors.magenta },
-		-- markdownLinkText = { fg = colors.blue },
+		markdownLinkDelimiter = { fg = colors.string_taupe },
+		markdownLinkText = { fg = colors.string_taupe },
 		-- markdownListMarker = { fg = colors.cyan },
 		-- markdownOrderedListMarker = { fg = colors.red },
 		-- markdownRule = { fg = colors.comment },
